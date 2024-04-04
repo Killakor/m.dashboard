@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="263 85  16 16" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 271 85  C 275.48 85  279 88.52  279 93  C 279 97.48  275.48 101  271 101  C 266.52 101  263 97.48  263 93  C 263 88.52  266.52 85  271 85  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 271 85.5  C 275.2 85.5  278.5 88.8  278.5 93  C 278.5 97.2  275.2 100.5  271 100.5  C 266.8 100.5  263.5 97.2  263.5 93  C 263.5 88.8  266.8 85.5  271 85.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-  <path d="M 271 97  C 268.76 97  267 95.24  267 93  C 267 90.76  268.76 89  271 89  C 273.24 89  275 90.76  275 93  C 275 95.24  273.24 97  271 97  " fill-rule="nonzero" fill="#797979" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="198 85  16 16" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 206 85  C 210.48 85  214 88.52  214 93  C 214 97.48  210.48 101  206 101  C 201.52 101  198 97.48  198 93  C 198 88.52  201.52 85  206 85  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 206 85.5  C 210.2 85.5  213.5 88.8  213.5 93  C 213.5 97.2  210.2 100.5  206 100.5  C 201.8 100.5  198.5 97.2  198.5 93  C 198.5 88.8  201.8 85.5  206 85.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+  <path d="M 206 97  C 203.76 97  202 95.24  202 93  C 202 90.76  203.76 89  206 89  C 208.24 89  210 90.76  210 93  C 210 95.24  208.24 97  206 97  " fill-rule="nonzero" fill="#797979" stroke="none" />
 </svg>
