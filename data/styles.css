@@ -22,6 +22,8 @@
 }
 .image {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -152,5 +154,16 @@
   font-style:normal;
   color:#000000;
   text-align:left;
+}
+.shape4 {
+}
+.shape5 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 textarea, select, input, button { outline: none; }
