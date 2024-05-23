@@ -11253,8 +11253,6 @@
   height:350px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -22916,8 +22914,6 @@
   height:390px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
