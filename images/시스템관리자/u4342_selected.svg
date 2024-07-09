@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" viewBox="20 132.5  14 14" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 20.5 133  L 33.5 133  L 33.5 146  L 20.5 146  L 20.5 133  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 20.5 133  L 33.5 133  L 33.5 146  L 20.5 146  L 20.5 133  Z " stroke-width="1" stroke="#797979" fill="none" />
-  <path d="M 23 139.5  L 26 142.5  L 31 135.5  " stroke-width="3" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="28 184  13 13" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 28.5 186  A 1.5 1.5 0 0 1 30 184.5 L 39 184.5  A 1.5 1.5 0 0 1 40.5 186 L 40.5 195  A 1.5 1.5 0 0 1 39 196.5 L 30 196.5  A 1.5 1.5 0 0 1 28.5 195 L 28.5 186  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" />
+  <path d="M 28.5 186  A 1.5 1.5 0 0 1 30 184.5 L 39 184.5  A 1.5 1.5 0 0 1 40.5 186 L 40.5 195  A 1.5 1.5 0 0 1 39 196.5 L 30 196.5  A 1.5 1.5 0 0 1 28.5 195 L 28.5 186  Z " stroke-width="1" stroke="#797979" fill="none" />
+  <path d="M 30.7857142857143 190.5  L 33.5714285714286 193.285714285714  L 38.2142857142857 186.785714285714  " stroke-width="2.78571428571429" stroke="#797979" fill="none" />
 </svg>
